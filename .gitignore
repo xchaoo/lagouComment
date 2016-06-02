@@ -1,0 +1,8 @@
+ # MAC:
+*.DS_Store
+
+# IPYTHON NOTEBOOK:
+.ipynb_checkpoints/
+
+# data:
+data/
